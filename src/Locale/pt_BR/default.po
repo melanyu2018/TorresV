@@ -1,0 +1,178 @@
+msgid "Zones"
+msgstr "Zonas"
+
+msgid "New"
+msgstr "Novo"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Id"
+msgstr "Id"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Quantity Dealers"
+msgstr "Distribuidores de Quantidade"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "View"
+msgstr "Enxergar"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Deletar"
+
+msgid "Toggle navigation"
+msgstr "Alternar navegação""
+
+msgid "Login"
+msgstr "iniciar sessão"
+
+msgid "Products"
+msgstr "Produtos"
+
+msgid "Delete"
+msgstr "Deletar "
+
+msgid "Debug"
+msgstr "Depurar"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Cars"
+msgstr "Carros"
+
+msgid "Brand"
+msgstr "Marca"
+
+msgid "Car Plate"
+msgstr "Placa de Carro"
+
+msgid "Owner"
+msgstr "Propietario"
+
+msgid "MAIN NAVIGATION"
+msgstr "NAVEGAÇÃO PRINCIPAL"
+
+msgid "Created"
+msgstr "Criado"
+
+msgid "Online"
+msgstr "Online"
+
+msgid "Price"
+msgstr "Preço"
+
+msgid "Quantity"
+msgstr "Quantidade"
+
+msgid "Modified"
+msgstr "Modificado"
+
+msgid "Code"
+msgstr "Código"
+
+msgid "Products"
+msgstr "Produtos"
+
+msgid "Surnames"
+msgstr "Sobrenomes"
+
+msgid "Email"
+msgstr "Correio"
+
+msgid "Date Of Birth"
+msgstr "Fecha de Nascimento"
+
+msgid "Users"
+msgstr "Usuários"
+
+msgid "User"
+msgstr "Usuário"
+
+msgid "Orders"
+msgstr "Pedidos"
+
+msgid "Ballot Number"
+msgstr "Número de Boleta"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "User"
+msgstr "Usuário"
+
+msgid "Amount"
+msgstr "Quantidade"
+
+msgid "Reload"
+msgstr "Recarregar"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Home"
+msgstr "Início"
+
+msgid "Form"
+msgstr "Formulario"
+
+msgid "Submit"
+msgstr "Guardar"
+
+msgid " Search "
+msgstr "Buscar"
+
+msgid "Search..."
+msgstr "Buscar..."
+
+msgid "online"
+msgstr "em linha"
+
+msgid "Password"
+msgstr "passe"
+
+msgid "debug"
+msgstr "depurar"
+
+msgid "Order"
+msgstr "ordem"
+
+msgid "Orders"
+msgstr "Encomendas"
+
+msgid "Products"
+msgstr "Produtos"
+
+msgid "Boss"
+msgstr "Jefe"
+
+msgid "Deliveryman"
+msgstr "Repartidor"
+
+msgid "cachito"
+msgstr "cachito"
+
+msgid "caramel cookie"
+msgstr "Bolinho de caramelo"
+
+
+
+msgid "Are you sure you want to delete #1?"
+msgstr "Tem certeza de que deseja excluir o nº 1?
+
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Tem certeza de que deseja excluir o nº{0}?"
+
+
+

@@ -1,0 +1,204 @@
+msgid "Zones"
+msgstr "Zonas"
+
+msgid "Zone"
+msgstr "Zona"
+
+msgid "New"
+msgstr "Agregar"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Id"
+msgstr "Identificacion"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Quantity Dealers"
+msgstr "Cantidad de Repartidores"
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "Edit"
+msgstr "Editar"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Toggle navigation"
+msgstr "Navegacion de palanca"
+
+msgid "Login"
+msgstr "Iniciar Sesión"
+
+msgid "Products"
+msgstr "Productos"
+
+msgid "Product"
+msgstr "Producto"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Debug"
+msgstr "Depurar"
+
+msgid "Search..."
+msgstr "Buscar..."
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Cars"
+msgstr "Carros"
+
+msgid "Car"
+msgstr "Carro"
+
+msgid "Brand"
+msgstr "Marca"
+
+msgid "Car Plate"
+msgstr "Placa de Carro"
+
+msgid "Owner"
+msgstr "Propietario"
+
+msgid "MAIN NAVIGATION"
+msgstr "NAVEGACION PRINCIPAL"
+
+msgid "Created"
+msgstr "Creado"
+
+msgid "Online"
+msgstr "En linea"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Quantity"
+msgstr "Cantidad"
+
+msgid "Modified"
+msgstr "Modificado"
+
+msgid "Code"
+msgstr "Código"
+
+msgid "Products"
+msgstr "Productos"
+
+msgid "Product"
+msgstr "Producto"
+
+msgid "Surnames"
+msgstr "Apellidos"
+
+msgid "Email"
+msgstr "Correo"
+
+msgid "Date Of Birth"
+msgstr "Fecha de Nacimiento"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "User"
+msgstr "Usuario"
+
+msgid "Orders"
+msgstr "Pedidos"
+
+msgid "Order"
+msgstr "Pedido"
+
+msgid "Ballot Number"
+msgstr "Número de Boleta"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "User"
+msgstr "Usuario"
+
+msgid "Amount"
+msgstr "Cantidad"
+
+msgid "Reload"
+msgstr "Reubicar"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Home"
+msgstr "Principal"
+
+msgid "Form"
+msgstr "Formulario"
+
+msgid "Submit"
+msgstr "Guardar"
+
+msgid "Are you sure you want to delete # 1?"
+msgstr "¡Estas seguro que quieres eliminar # 1?"
+
+msgid "Are you sure you want to delete # 2?"
+msgstr "  Estas seguro que quieres eliminar # 2?"
+
+
+msgid "Retype the characters from the picture:"
+msgstr "Vuelva a escribir los caracteres de la imagen"
+
+msgid "Description"
+msgstr "Descripcion"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Caramel cookie"
+msgstr "Alfajor"
+
+msgid "Patty"
+msgstr "Empanada"
+
+msgid "tasty"
+msgstr "delicioso"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "Countess"
+msgstr "Condesa"
+
+msgid "User Id"
+msgstr "Identificacion del Usuario"
+
+msgid "Information"
+msgstr "Informacion"
+
+msgid "Boss"
+msgstr "Jefe"
+
+msgid "Delivery man"
+msgstr "Repartidor"
+
+msgid "Alert"
+msgstr "Alerta"
+
+msgid "You are now logged out."
+msgstr "Usted no esta logeado."
+
+msgid "You are not authorized to access that location."
+msgstr "Usted no esta autorizado para acceder a este lugar."
+
+msgid "Your username or password is incorrect."
+msgstr "Tu correo o contraseña es incorrecto."
