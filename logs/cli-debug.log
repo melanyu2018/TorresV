@@ -1,0 +1,75 @@
+2019-06-27 00:09:56 Notice: Notice (8): Undefined index: Zones in [/home/torres/public_html/TorresV/vendor/cakephp/bake/src/View/Helper/DocBlockHelper.php, line 250]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+Bake\View\Helper\DocBlockHelper::buildTableAnnotations() - ROOT/vendor/cakephp/bake/src/View/Helper/DocBlockHelper.php, line 250
+Twig\Template::getAttribute() - ROOT/vendor/twig/twig/src/Template.php, line 704
+__TwigTemplate_52b301f3122b47644630d20a91c7b86174b70e36ec0b968c7683403fa32b4c2f::doDisplay() - ROOT/tmp/cache/twigView/ff/fff6243a9a390f8cece7d8252cc0d6f92e906c9b7d83daeacd13cd0574c12c18.php, line 33
+Twig\Template::displayWithErrorHandling() - ROOT/vendor/twig/twig/src/Template.php, line 455
+Twig\Template::display() - ROOT/vendor/twig/twig/src/Template.php, line 422
+Twig\Template::render() - ROOT/vendor/twig/twig/src/Template.php, line 434
+WyriHaximus\TwigView\View\TwigView::_render() - ROOT/vendor/wyrihaximus/twig-view/src/View/TwigView.php, line 180
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 146
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 91
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 1016
+Bake\Shell\Task\ModelTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 115
+Bake\Shell\Task\ModelTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 101
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 279
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 280
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 518
+Cake\Console\CommandRunner::runShell() - CORE/src/Console/CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 162
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2019-06-27 00:27:24 Notice: Notice (8): Undefined index: Orders in [/home/torres/public_html/TorresV/vendor/cakephp/bake/src/View/Helper/DocBlockHelper.php, line 250]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+Bake\View\Helper\DocBlockHelper::buildTableAnnotations() - ROOT/vendor/cakephp/bake/src/View/Helper/DocBlockHelper.php, line 250
+Twig\Template::getAttribute() - ROOT/vendor/twig/twig/src/Template.php, line 704
+__TwigTemplate_52b301f3122b47644630d20a91c7b86174b70e36ec0b968c7683403fa32b4c2f::doDisplay() - ROOT/tmp/cache/twigView/ff/fff6243a9a390f8cece7d8252cc0d6f92e906c9b7d83daeacd13cd0574c12c18.php, line 33
+Twig\Template::displayWithErrorHandling() - ROOT/vendor/twig/twig/src/Template.php, line 455
+Twig\Template::display() - ROOT/vendor/twig/twig/src/Template.php, line 422
+Twig\Template::render() - ROOT/vendor/twig/twig/src/Template.php, line 434
+WyriHaximus\TwigView\View\TwigView::_render() - ROOT/vendor/wyrihaximus/twig-view/src/View/TwigView.php, line 180
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 146
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 91
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 1016
+Bake\Shell\Task\ModelTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 115
+Bake\Shell\Task\ModelTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 101
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 279
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 280
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 518
+Cake\Console\CommandRunner::runShell() - CORE/src/Console/CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 162
+[main] - ROOT/bin/cake.php, line 12
+
+
+
+2019-06-27 00:28:46 Notice: Notice (8): Undefined index: OrderDetail in [/home/torres/public_html/TorresV/vendor/cakephp/bake/src/View/Helper/DocBlockHelper.php, line 250]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 159
+Bake\View\Helper\DocBlockHelper::buildTableAnnotations() - ROOT/vendor/cakephp/bake/src/View/Helper/DocBlockHelper.php, line 250
+Twig\Template::getAttribute() - ROOT/vendor/twig/twig/src/Template.php, line 704
+__TwigTemplate_52b301f3122b47644630d20a91c7b86174b70e36ec0b968c7683403fa32b4c2f::doDisplay() - ROOT/tmp/cache/twigView/ff/fff6243a9a390f8cece7d8252cc0d6f92e906c9b7d83daeacd13cd0574c12c18.php, line 33
+Twig\Template::displayWithErrorHandling() - ROOT/vendor/twig/twig/src/Template.php, line 455
+Twig\Template::display() - ROOT/vendor/twig/twig/src/Template.php, line 422
+Twig\Template::render() - ROOT/vendor/twig/twig/src/Template.php, line 434
+WyriHaximus\TwigView\View\TwigView::_render() - ROOT/vendor/wyrihaximus/twig-view/src/View/TwigView.php, line 180
+Bake\View\BakeView::render() - ROOT/vendor/cakephp/bake/src/View/BakeView.php, line 146
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT/vendor/cakephp/bake/src/Shell/Task/BakeTemplateTask.php, line 91
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 1016
+Bake\Shell\Task\ModelTask::bake() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 115
+Bake\Shell\Task\ModelTask::main() - ROOT/vendor/cakephp/bake/src/Shell/Task/ModelTask.php, line 101
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 279
+Cake\Collection\Collection::each() - CORE/src/Collection/CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT/vendor/cakephp/bake/src/Shell/BakeShell.php, line 280
+Cake\Console\Shell::runCommand() - CORE/src/Console/Shell.php, line 518
+Cake\Console\CommandRunner::runShell() - CORE/src/Console/CommandRunner.php, line 384
+Cake\Console\CommandRunner::run() - CORE/src/Console/CommandRunner.php, line 162
+[main] - ROOT/bin/cake.php, line 12
+
+
+
